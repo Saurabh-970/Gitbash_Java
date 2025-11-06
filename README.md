@@ -1,2 +1,2 @@
-# Java_Programming
-All my java LB assignments and classwork are in this repo
+# Gitbash_Java
+Gitbash uploading java programs repo
